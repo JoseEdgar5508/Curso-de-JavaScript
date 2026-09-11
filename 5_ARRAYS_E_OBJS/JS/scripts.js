@@ -162,7 +162,7 @@ array.pop();
 
 console.log(array);
 
-const intemRemovido = array.pop;
+const intemRemovido = array.pop();
 
 console.log(intemRemovido);
 
